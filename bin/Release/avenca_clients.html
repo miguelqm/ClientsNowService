@@ -1,0 +1,148 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="60" />
+    <title>Avenca Clientes</title>
+</head>
+<body bgcolor="#E6E6FA">
+    <table style="height: 192px; margin-left: auto; margin-right: auto;" border="1">
+        <thead>
+            <tr>
+                <th style="text-align: center;" colspan="2">
+                    <font size="7">
+                        <strong>@data - Atualizado às @time</strong>
+                    </font>
+                </th>
+            </tr>
+        </thead>
+        <tbody style="font-size:45px">
+            <tr>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+            </tr>
+            <tr>
+                <td><strong>Tickets at&eacute; agora:&nbsp;</strong></td>
+                <td><strong>@tickets</strong></td>
+            </tr>
+            <tr>
+                <td>Proje&ccedil;&atilde;o&nbsp;de hoje:</td>
+                <td>@proj</td>
+            </tr>
+            <tr>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+            </tr>
+            <tr>
+                <td><strong>Diferen&ccedil;a da m&eacute;dia:&nbsp;</strong></td>
+                <td><strong>@dif_media</strong></td>
+            </tr>
+            <tr>
+                <td><strong>Diferen&ccedil;a do m&aacute;x:&nbsp;</strong></td>
+                <td><strong>@dif_max</strong></td>
+            </tr>
+            <tr>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+            </tr>
+            <tr>
+                <td><font size="6"><strong>Antes </strong>(min/<strong>MÉDIA</strong>/max):</font></td>
+                <td><font size="6">@min_antes / <strong>@media_antes</strong> / @max_antes</font></td>
+            </tr>
+            <tr>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+            </tr>
+            <tr>
+                <td><font size="6"><strong>Depois </strong>(min/<strong>MÉDIA</strong>/max):</font></td>
+                <td><font size="6">@min_depois / <strong>@media_depois</strong> / @max_depois</font></td>
+            </tr>
+            <tr>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+            </tr>
+            <tr>
+                <td><font size="6"><strong>Globo</strong> (<strong>clientes</strong>/desc/valor):</font></td>
+                <td><font size="6"><strong>@n_globo</strong> / @n_desc_globo / R$ @desc_globo</font></td>
+            </tr>
+            <tr>
+                <td><font size="6">M&eacute;dia Globo (antes)</font></td>
+                <td><font size="6">@media_globo</font></td>
+            </tr>
+            <tr>
+                <td><font size="6">Outros descontos (qtd/valor):</font></td>
+                <td><font size="6"><strong>@n_desc_outros</strong> / R$ @desc_outros</font></td>
+            </tr>
+            <tr>
+                <td><strong>Total de descontos:</strong></td>
+                <td><strong>R$ @desconto</strong></td>
+            </tr>
+            <tr>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+            </tr>
+            <tr>
+                <td><strong>Comida(Kg) / <font size="6">M&eacute;dia:</font></strong></td>
+                <td><strong>@comida</strong></td>
+            </tr>
+            <tr>
+                <td>Quilo/Pessoa:</td>
+                <td>@comida_por_pessoa</td>
+            </tr>
+            <tr>
+                <td>Bebida:</td>
+                <td>@bebida</td>
+            </tr>
+            <tr>
+                <td>Sobremesa:</td>
+                <td>@sobremesa</td>
+            </tr>
+            <tr>
+                <td>Bomboniere:</td>
+                <td>@bomboniere</td>
+            </tr>
+            <tr>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+            </tr>
+            <tr>
+                <td><strong>Ticket m&eacute;dio:</strong></td>
+                <td><strong>R$ @ticket_medio</strong></td>
+            </tr>
+            <tr>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+            </tr>
+            <tr>
+                <td><strong>Valor at&eacute; agora:&nbsp;</strong></td>
+                <td><strong>R$ @valor</strong></td>
+            </tr>
+            <tr>
+                <td><font size="6">Hist&oacute;rico (m&iacute;n/<strong>m&eacute;d</strong>/m&aacute;x):</font></td>
+                <td><font size="6">@min_valor/<strong>@media_valor</strong>/@max_valor</font></td>
+            </tr>
+            <tr>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+            </tr>
+            <tr>
+                <td><strong>Projeção Final:</strong></td>
+                <td><strong>R$ @pr_valor</strong>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+                <td style="font-size: xx-small" height="20">&nbsp;</td>
+            </tr>
+            <tr>
+                <td>Total no Mês:</td>
+                <td>R$ @total_mes</td>
+            </tr>
+            <tr>
+                <td>Fichas Abertas:</td>
+                <td>@fichas_abertas</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

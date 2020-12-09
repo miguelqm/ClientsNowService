@@ -1,0 +1,24 @@
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Release\ClientsNowService.exe.config
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Release\ClientsNowService.exe
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Release\ClientsNowService.pdb
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Release\ClientsNowService.ClientsNowService.resources
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Release\ClientsNowService.ProjectInstaller.resources
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Release\ClientsNowService.csproj.GenerateResource.Cache
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Release\ClientsNowService.exe
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Release\ClientsNowService.pdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Release\Previsao.sql
+G:\New folder\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Release\avenca_clients.html
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Release\Previsao.sql
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Release\avenca_clients.html
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Release\ClientsNowService.exe.config
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Release\ClientsNowService.exe
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Release\ClientsNowService.pdb
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Release\ClientsNowService.ClientsNowService.resources
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Release\ClientsNowService.ProjectInstaller.resources
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Release\ClientsNowService.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Release\ClientsNowService.exe
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Release\ClientsNowService.pdb
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Release\Install.bat
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Release\ClientsNowService.csproj.ResolveComReference.cache
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Release\LogFichasAbertas.xlsx
+E:\My Documents\Visual Studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Release\ClientsNowService.csprojResolveAssemblyReference.cache

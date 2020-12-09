@@ -1,0 +1,8 @@
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Debug\ClientsNowService.exe.config
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Debug\ClientsNowService.exe
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\bin\Debug\ClientsNowService.pdb
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Debug\ClientsNowService.ClientsNowService.resources
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Debug\ClientsNowService.ProjectInstaller.resources
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Debug\ClientsNowService.csproj.GenerateResource.Cache
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Debug\ClientsNowService.exe
+g:\new folder\my documents\visual studio 2013\Projects\ClientsNowService\ClientsNowService\obj\Debug\ClientsNowService.pdb
